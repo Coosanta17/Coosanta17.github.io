@@ -1,0 +1,29 @@
+<h1>The Amalgam</h1>
+<p>A datapack for Minecraft Java edition 1.19+</p>
+<h3>What is the Amalgam?</h3>
+<p>&nbsp;</p>
+<blockquote><span style="color: #808080;"><em>The In-between, the grey areas where you are not sure what dimension it is, the Amalgam exists.</em></span></blockquote>
+<p>The goal for this pack is to improve vanilla Minecraft, it is currently just a race for Netherite and power. This pack changes it, it has more options than just one type of armour that is super overpowered and more gameplay than vanilla Minecraft as it is more focused on the construction and exploration aspect of the game, but this can become boring quickly.</p>
+<p>&nbsp;</p>
+<!--
+If someone could rephrase this and add more info that would be good
+-->
+<h3>Development</h3>
+<p>There is not much more I can write about in the concept section as the pack is barely complete. In a nutshell the pack is adding the main biomes from all the dimensions in vanilla Minecraft and mashing them together in one dimension. Each "mashed dimension" will have one boss which will unlock a "sub-dimension", (a mini version of the dimension but with differences and is only about 500 blocks big with some loot and a challenge) which in turn unlocks 1-2 bosses that give rare and custom loot.</p>
+<p>To Do and Done:</p>
+<p>✔ Create and design main dimension <br />▣ Create Biomes <em>(in progress)</em><br />✖ Design structures <br />✖ Create and design custom loot and items/blocks/weapons <br />✖ Create custom Mobs and Bosses <br />✖ Create 'Sub-Dimensions' <br />✖ Design subdimensions (more detail when I reach this section) <br />✖ Bugfixes and updates</p>
+<p><strong><em>this list will be evaluated when I reach each development section or have more ideas/better plan</em></strong></p>
+<!--
+here is notes on how to do foldable sections
+
+```
+<details>
+<summary><b>My section header in bold</b></summary>
+
+Any folded content here. It requires an empty line just above it.
+
+</details>
+```
+
+-->
+<p>&nbsp;</p>
