@@ -1267,7 +1267,7 @@ function updateKeywords() {
 
 updateKeywords();
 initFramebuffers();
-multipleSplats(parseInt(Math.random() * 20) + 5);
+// multipleSplats(parseInt(Math.random() * 20) + 5);
 
 let lastUpdateTime = Date.now();
 let colorUpdateTimer = 0.0;
@@ -1635,12 +1635,12 @@ window.addEventListener("touchend", (e) => {
     updatePointerUpData(pointer);
   }
 });
-
+/*
 window.addEventListener("keydown", (e) => {
   if (e.code === "KeyP") config.PAUSED = !config.PAUSED;
   if (e.key === " ") splatStack.push(parseInt(Math.random() * 20) + 5);
 });
-
+*/
 function updatePointerDownData(pointer, id, posX, posY) {
   pointer.id = id;
   pointer.down = true;
