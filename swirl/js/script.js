@@ -121,7 +121,7 @@ function multipleSplats(amount) {
 
 let _randomSplats = false;
 let _audioReact = false;
-let colorRange=["#000000","#000000"];
+let colorRange=["00ff00","#ff00ff"];
 let colorConfig=null;
 let splatRadiusModulationEnabled=false;
 let baseRadius=config.SPLAT_RADIUS;
