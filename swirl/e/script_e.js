@@ -35,10 +35,10 @@ let config = {
   CAPTURE_RESOLUTION: 512,
   DENSITY_DISSIPATION: 1,
   VELOCITY_DISSIPATION: 0.2,
-  PRESSURE: 0.8,
-  PRESSURE_ITERATIONS: 20,
+  PRESSURE: 0.5,
+  PRESSURE_ITERATIONS: 12,
   CURL: 30,
-  SPLAT_RADIUS: 0.25,
+  SPLAT_RADIUS: 0.35,
   SPLAT_FORCE: 6000,
   SHADING: true,
   COLORFUL: false,
@@ -121,7 +121,7 @@ function multipleSplats(amount) {
 
 let _randomSplats = false;
 let _audioReact = false;
-let colorRange=["00ff00","#ff00ff"];
+let colorRange=["#0000ff","#ff0000"];
 let colorConfig=null;
 let splatRadiusModulationEnabled=false;
 let baseRadius=config.SPLAT_RADIUS;
